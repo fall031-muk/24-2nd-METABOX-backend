@@ -23,6 +23,8 @@
 
 [영상 보러가기](https://www.youtube.com/watch?v=PkHOsGvFzec)
 
+<iframe width="1280" height="628" src="https://www.youtube.com/embed/PkHOsGvFzec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 🛠 적용 기술 및 구현사항
 
 ---
